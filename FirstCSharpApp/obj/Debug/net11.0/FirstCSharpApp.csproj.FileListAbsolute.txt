@@ -1,0 +1,16 @@
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.exe
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.deps.json
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.runtimeconfig.json
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.runtimeconfig.dev.json
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.dll
+D:\Ccharp\FirstCSharpApp\bin\Debug\net11.0\FirstCSharpApp.pdb
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.AssemblyInfoInputs.cache
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.AssemblyInfo.cs
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.csproj.CoreCompileInputs.cache
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.dll
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\refint\FirstCSharpApp.dll
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.pdb
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSharpApp.genruntimeconfig.cache
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\ref\FirstCSharpApp.dll
+D:\Ccharp\FirstCSharpApp\obj\Debug\net11.0\FirstCSh.11A64EF1.Up2Date
